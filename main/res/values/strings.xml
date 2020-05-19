@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ParkingSpot</string>
+    <string name="reg">Create New Account</string>
+    <string name="fullname">FullName</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="create_button">Register</string>
+    <string name="account"><b>Have already an account?</b> <u>Log in now...</u></string>
+    <string name="auth">Log in</string>
+    <string name="login">Log in</string>
+    <string name="newacc"><b>New here?</b> <u>Create an account...</u></string>
+    <string name="forgot"><i><u>Forgot your password?</u></i></string>
+    <string name="emailverified">Your Email is Not Verified!</string>
+    <string name="verify_button">Verify Now</string>
+    <string name="logout">Log out</string>
+    <string name="profile">Your Profile</string>
+    <string name="yourphone">Your Phone Number:</string>
+    <string name="youremail">Your Email:</string>
+    <string name="yourname">Your Full Name:</string>
+    <string name="resetpass"> Reset your \n password </string>
+    <string name="editprofile"> Edit your \n photo profile </string>
+    <string name="myaccount">My Account</string>
+
+</resources>
